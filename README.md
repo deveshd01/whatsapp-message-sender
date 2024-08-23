@@ -9,6 +9,7 @@
 To execute the script, simply run the following command in your terminal:
 ```bash
 python code.py
+```
 
 
 ## Steps
