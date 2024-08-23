@@ -1,6 +1,5 @@
 # whatsapp-message-sender
 
-# WhatsApp Automation Script
 
 ## Prerequisites
 - Ensure that the web browser driver is downloaded and available in the specified location.
